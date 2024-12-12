@@ -105,11 +105,11 @@ export default function Contact() {
           className="flex justify-center mt-12"
         >
           <ButtonLitLink
-            href="/Manas_D_Bhole_Resume.pdff"
+            href="/Manas_D_Bhole_Resume.pdf"
             className="flex items-center whitespace-nowrap"
             download
           >
-            <span className="inline-block">Resume</span>
+            <span className="inline-block bg-grey-600 hover:bg-grey-700">Resume</span>
             <HiOutlineDownload className="w-5 h-5 ml-2 inline-block" />
           </ButtonLitLink>
         </motion.div>
