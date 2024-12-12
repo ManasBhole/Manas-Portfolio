@@ -113,12 +113,12 @@ export default function Hero() {
             </ButtonLitLink>
 
             <ButtonLitLink
-              href="/Manas_D_Bhole_Resume.pdf"
-              className="flex items-center whitespace-nowrap bg-grey-600 hover:bg-grey-700 dark:bg-neutral-800 px-8 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
-              download
+                href="/Manas_D_Bhole_Resume.pdf"
+                className="flex items-center whitespace-nowrap bg-gray-200 hover:bg-gray-300 dark:bg-neutral-800 dark:hover:bg-neutral-700 text-gray-800 dark:text-white px-8 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
+                download
             >
-              <span className="inline-block">Resume</span>
-              <HiOutlineDownload className="w-5 h-5 ml-2 inline-block" />
+                <span className="inline-block">Resume</span>
+                <HiOutlineDownload className="w-5 h-5 ml-2 inline-block" />
             </ButtonLitLink>
           </motion.div>
 
