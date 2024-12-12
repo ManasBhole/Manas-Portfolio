@@ -21,7 +21,7 @@ interface TimelineItem {
 const experiences: TimelineItem[] = [
   {
     title: "Software Engineer",
-    organization: ", Amtelco, Madison, Wisconsin, USA",
+    organization: "Amtelco, Wisconsin, USA",
     location: "Madison, Wisconsin, USA",
     type: "Hybrid",
     date: "July 2024 - Present",
