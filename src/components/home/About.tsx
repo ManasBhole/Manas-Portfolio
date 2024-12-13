@@ -17,7 +17,7 @@ export default function About() {
             About Me
           </h2>
           <p className="text-neutral-600 dark:text-white/80 max-w-2xl mx-auto">
-          Data Engineer | Cloud Solutions Architect | Big Data Evangelist
+          Software Engineer | Cloud Solutions | Big Data | Devops 
           </p>
         </motion.div>
 
