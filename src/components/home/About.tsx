@@ -35,15 +35,7 @@ export default function About() {
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: 0.3 }}
             >
-              <p className="text-neutral-700 dark:text-white/90 mb-4 text-center">
-                I architect digital symphonies where code meets purpose, transforming complex business challenges into elegant software solutions. With Spring Boot as my canvas and Kubernetes as my stage, I craft scalable applications that don't just function – they evolve.
-              </p>
-              <p className="text-neutral-700 dark:text-white/90 mb-6 text-center">
-                My journey has taken me from manufacturing systems in India to cutting-edge legal and healthcare solutions in the USA. I specialize in full-stack development with Java, Spring Boot, and Angular, with particular expertise in microservices architecture and cloud-native solutions.
-              </p>
-              <p className="text-neutral-700 dark:text-white/90 mb-6 text-center">
-                Through DevOps practices and cloud technologies, I build systems that scale efficiently and deliver real business impact. Whether it's optimizing performance, automating deployments, or designing robust APIs, I'm passionate about creating solutions that make technology feel seamless and intuitive.
-              </p>
+              <p className="text-neutral-700 dark:text-white/90 mb-4 text-center"> I craft software solutions that transform complex challenges into scalable, elegant systems. Using Spring Boot and Kubernetes, I build applications that not only perform but evolve. </p> <p className="text-neutral-700 dark:text-white/90 mb-6 text-center"> From manufacturing systems in India to legal and healthcare solutions in the USA, I specialize in full-stack development with Java, Spring Boot, Angular, and cloud-native microservices. </p> <p className="text-neutral-700 dark:text-white/90 mb-6 text-center"> Leveraging DevOps practices and cloud technologies, I deliver systems that scale, optimize performance, and automate deployments, creating seamless, impactful solutions. </p>
             </motion.div>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
