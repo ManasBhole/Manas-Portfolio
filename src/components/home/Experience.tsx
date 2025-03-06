@@ -60,7 +60,7 @@ const experiences: TimelineItem[] = [
     organization: "Bharat Gears Ltd",
     location: "Mumbai, India",
     type: "On-site",
-    date: "Aug 2018 - May 2022",
+    date: "Aug 2017 - May 2022",
     description: "Led development of real-time manufacturing monitoring systems using Angular and Spring Boot, with focus on cloud migration and infrastructure automation.",
     skills: ["Angular", "Spring Boot", "AWS CloudFormation", "Kubernetes", "SQL", "Microservices"]
   },
